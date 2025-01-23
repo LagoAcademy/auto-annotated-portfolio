@@ -60,6 +60,7 @@ sections:
     actions: []
     posts:
       - content/pages/blog/team-girls.md
+      - content/pages/blog/matches.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
