@@ -18,7 +18,7 @@ sections:
       as we continue to make our mark in the world of football.
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         margin:
           - mt-0
