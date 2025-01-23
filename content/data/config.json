@@ -79,7 +79,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "0506",
             "phoneAltText": "My phone number",
             "email": "lagofc2024@gmail.com",
             "emailAltText": "My email",
