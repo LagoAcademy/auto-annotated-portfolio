@@ -2,7 +2,7 @@
 type: PostLayout
 title: Team Girls
 date: '2024-07-07'
-excerpt: Official Girls Team Of Lago Academy
+excerpt: We are proud to introduce the Official Girls Team Of Lago Academy
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
