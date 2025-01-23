@@ -108,16 +108,7 @@ bottomSections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     columns: 1
     spacingX: 16
