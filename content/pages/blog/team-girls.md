@@ -39,7 +39,7 @@ bottomSections:
         label: Megan
         url: ''
       - type: Label
-        label: Pancakes
+        label: Siya
         url: ''
       - type: Label
         label: C++
