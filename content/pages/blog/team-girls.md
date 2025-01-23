@@ -45,7 +45,7 @@ bottomSections:
         label: Zuri
         url: ''
       - type: Label
-        label: Swift
+        label: Fatima
         url: ''
     colors: colors-f
     elementId: ''
