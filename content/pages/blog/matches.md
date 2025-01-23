@@ -55,7 +55,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Lago Academy vs jlf
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
