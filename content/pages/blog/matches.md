@@ -5,12 +5,6 @@ date: '2024-04-05'
 excerpt: >-
   As a Grassroot academy , we have played numerous matches against other
   academies
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-01-02 120919.png
