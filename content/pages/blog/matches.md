@@ -142,3 +142,9 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
+As a grassroots academy, Lago Academy has proudly competed in numerous matches against other academies, providing our young athletes with valuable experience and exposure. These competitive opportunities allow our players to test their skills, learn from real-game situations, and grow both individually and as a team. Each match is a step forward in our journey to develop well-rounded, confident footballers ready to excel at higher levels of the game.
+
+Here is a list of some of the exciting matches we've played recently
+
+
+
