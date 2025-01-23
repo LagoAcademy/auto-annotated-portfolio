@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "https://lagoacademy.netlify.app/blog/post-six/"
+                "url": "/info"
             },
             {
                 "type": "Link",
