@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Lago Academy
+    title: Our Story
     subtitle: >-
       Welcome to Lago Academy! We are a passionate football club dedicated to
       providing an exceptional sporting experience for our players and fans. Our
