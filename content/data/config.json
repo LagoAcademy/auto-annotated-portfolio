@@ -24,7 +24,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/@lagoAcademy",
+                "icon": "youtube",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
