@@ -6,7 +6,10 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Testimonials
-    subtitle: The section subtitle
+    subtitle: >-
+      At Lago Academy, we take immense pride in the positive impact our academy
+      has had on young footballers and their families. Here's what some of our
+      players and parents have to say about their experiences:
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
