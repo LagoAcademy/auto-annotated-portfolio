@@ -28,7 +28,7 @@
             {
                 "type": "Social",
                 "altText": "Youtube",
-                "label": "GitHub",
+                "label": "Youtube",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
             }
