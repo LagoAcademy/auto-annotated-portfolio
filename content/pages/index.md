@@ -48,7 +48,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-01-02 120919.png
-      altText: altText of the image
+      altText: Lago Academy
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
