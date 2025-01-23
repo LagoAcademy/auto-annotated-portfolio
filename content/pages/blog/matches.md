@@ -16,7 +16,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: FeaturedItemsSection
-    title: Matches
+    title: ''
     items:
       - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
