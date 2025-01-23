@@ -46,12 +46,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
