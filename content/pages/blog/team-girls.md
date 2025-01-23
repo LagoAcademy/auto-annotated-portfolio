@@ -30,7 +30,7 @@ bottomSections:
         label: Revathy
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Hanna
         url: ''
       - type: Label
         label: Next.js
