@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info"
+                "url": "/post-six"
             },
             {
                 "type": "Link",
@@ -79,14 +79,14 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "052 604 2366",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "lagofc2024@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Lago Vista Tower B, 1st Floor",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by Lago Academy\n",
         "styles": {
             "self": {
                 "width": "narrow",
