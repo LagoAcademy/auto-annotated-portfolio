@@ -36,7 +36,7 @@ bottomSections:
         label: Haniya
         url: ''
       - type: Label
-        label: Netlify
+        label: Megan
         url: ''
       - type: Label
         label: Pancakes
