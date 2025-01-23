@@ -131,7 +131,6 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/image_2025-01-23_131440.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
