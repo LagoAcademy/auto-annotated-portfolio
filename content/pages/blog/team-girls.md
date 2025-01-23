@@ -47,6 +47,9 @@ bottomSections:
       - type: Label
         label: Fatima
         url: ''
+      - type: Label
+        label: Khadija
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
