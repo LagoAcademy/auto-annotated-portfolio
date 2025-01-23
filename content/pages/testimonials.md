@@ -50,9 +50,11 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: >+
+
+          Lago Academy helped me improve my shooting and defending a lot. Thanks
+          to the coaches, I’m more confident and skilled on the field!
+
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         elementId: ''
