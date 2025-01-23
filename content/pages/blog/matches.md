@@ -97,13 +97,6 @@ bottomSections:
         subtitle: ''
         text: |
           Draw - Score  0-0
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
