@@ -21,7 +21,7 @@ featuredImage:
 bottomSections:
   - type: LabelsSection
     title: Members
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
