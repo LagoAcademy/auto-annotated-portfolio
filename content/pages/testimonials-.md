@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Testimonials '
+title: Testimonials
 sections:
   - type: TextSection
     colors: colors-f
