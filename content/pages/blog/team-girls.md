@@ -13,3 +13,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+The official Girls Section of Lago Academy
