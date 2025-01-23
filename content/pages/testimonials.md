@@ -50,11 +50,9 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >+
-
-          Lago Academy helped me improve my shooting and defending a lot. Thanks
-          to the coaches, I’m more confident and skilled on the field!
-
+        quote: >
+          "Lago Academy helped me improve my shooting and defending a lot.
+          Thanks to the coaches, I’m more confident and skilled on the field!"
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         elementId: ''
