@@ -19,7 +19,7 @@ bottomSections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: Lago Academy VS EAGLES
+        title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
