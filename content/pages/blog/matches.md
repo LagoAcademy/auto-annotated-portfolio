@@ -15,41 +15,21 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
-    title: Matches
+    title: ''
     items:
       - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: |
-          Drawed- Score 4-4
+          Draw- Score 4-4
         featuredImage:
           type: ImageBlock
           url: /images/image_2025-01-23_131606.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -59,37 +39,44 @@ bottomSections:
         subtitle: ''
         text: |
           Won - Score 4-1
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Lago Academy Vs al ethihad
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        text: |
+          Lost - Score  0-1
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Lago Academy Vs al ethihad
+        subtitle: ''
+        text: |
+          Draw - Score  0-0
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Lago Academy Vs Jlf
+        subtitle: ''
+        text: |
+          Won - Score 4-2
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Lago Academy Vs eagles sports academy
+        subtitle: ''
+        text: |
+          Lost - Score 2-4
         elementId: ''
         styles:
           self:
@@ -128,3 +115,9 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
+As a grassroots academy, Lago Academy has proudly competed in numerous matches against other academies, providing our young athletes with valuable experience and exposure. These competitive opportunities allow our players to test their skills, learn from real-game situations, and grow both individually and as a team. Each match is a step forward in our journey to develop well-rounded, confident footballers ready to excel at higher levels of the game.
+
+Here is a list of some of the exciting matches we've played recently
+
+
+
