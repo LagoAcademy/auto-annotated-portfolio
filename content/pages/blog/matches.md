@@ -95,10 +95,8 @@ bottomSections:
       - type: FeaturedItem
         title: Lago Academy Vs al ethihad
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Draw - Score  0-0
         featuredImage:
           type: ImageBlock
           url: >-
