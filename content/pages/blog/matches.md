@@ -115,13 +115,6 @@ bottomSections:
         subtitle: ''
         text: |
           Lost - Score 2-4
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
