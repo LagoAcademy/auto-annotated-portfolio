@@ -66,12 +66,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-media:
-  type: ImageBlock
-  url: /images/Screenshot 2025-01-02 120919.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 ---
 Introducing the official Girls' Section of Lago Academy, led by the dynamic and skilled Captain Eeshika. Under her leadership, the team embodies a strong spirit of teamwork, dedication, and passion for football. Together, they strive for excellence both on and off the field, setting a high standard of performance and unity. The Girls' Section is a key part of Lago Academy's commitment to nurturing young talent and empowering female athletes to reach their full potential.
 
