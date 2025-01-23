@@ -21,10 +21,8 @@ bottomSections:
       - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Drawed- Score 4-4
         featuredImage:
           type: ImageBlock
           url: /images/image_2025-01-23_131606.png
