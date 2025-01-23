@@ -76,10 +76,8 @@ bottomSections:
       - type: FeaturedItem
         title: Lago Academy Vs al ethihad
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Lost - Score  0-1
         actions:
           - type: Button
             label: ''
