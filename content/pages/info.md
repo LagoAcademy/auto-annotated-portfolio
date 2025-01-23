@@ -56,16 +56,4 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
 ---
