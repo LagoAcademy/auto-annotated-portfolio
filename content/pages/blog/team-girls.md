@@ -33,7 +33,7 @@ bottomSections:
         label: Hananah
         url: ''
       - type: Label
-        label: Next.js
+        label: Haniya
         url: ''
       - type: Label
         label: Netlify
