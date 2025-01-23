@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "https://lagoacademy.netlify.app/blog/post-six/"
+                "url": "/info"
             },
             {
                 "type": "Link",
@@ -60,7 +60,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "lagofc2024@gmail.com",
                 "altText": ""
             },
             {
