@@ -27,8 +27,7 @@ bottomSections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/image_2025-01-23_131440.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
