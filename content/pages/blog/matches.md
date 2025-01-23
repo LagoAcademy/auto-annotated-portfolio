@@ -15,6 +15,17 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     title: Matches
     items:
