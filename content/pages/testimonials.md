@@ -3,7 +3,7 @@ type: PageLayout
 title: Testimonials
 sections:
   - type: TextSection
-    colors: colors-b
+    colors: colors-a
     variant: variant-a
     title: Testimonials
     subtitle: ''
