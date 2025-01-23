@@ -15,9 +15,14 @@ sections:
     backgroundSize: full
     title: Lago Academy
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to Lago Academy! We are a passionate football club dedicated to
+      providing an exceptional sporting experience for our players and fans. Our
+      journey began with a group of friends who shared a love for the beautiful
+      game. Over the years, we have grown into a strong and competitive team,
+      participating in various leagues and tournaments. Our core values of
+      teamwork, dedication, and sportsmanship drive us to constantly improve and
+      achieve success on and off the field. Join us on this exciting adventure
+      as we continue to make our mark in the world of football.
     styles:
       self:
         height: auto
