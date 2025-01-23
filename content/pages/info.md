@@ -26,10 +26,6 @@ sections:
       encouraging a lifelong love for football. Whether you're a beginner or
       looking to refine your skills, Lago Academy provides a structured,
       supportive pathway to help every child achieve their goals in football.***
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
