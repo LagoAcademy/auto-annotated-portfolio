@@ -104,10 +104,8 @@ bottomSections:
       - type: FeaturedItem
         title: Lago Academy Vs Jlf
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Won - Score 4-2
         elementId: ''
         styles:
           self:
