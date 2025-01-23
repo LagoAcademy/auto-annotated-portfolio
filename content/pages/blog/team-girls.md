@@ -27,7 +27,7 @@ bottomSections:
         label: Eeshika
         url: ''
       - type: Label
-        label: React
+        label: Revathy
         url: ''
       - type: Label
         label: Microsoft Office
