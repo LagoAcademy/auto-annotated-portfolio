@@ -61,6 +61,7 @@ sections:
     posts:
       - content/pages/blog/team-girls.md
       - content/pages/blog/matches.md
+      - content/pages/blog/team-lago-.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
