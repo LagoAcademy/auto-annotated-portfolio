@@ -111,7 +111,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Lago Academy Vs eagles sports academy
         subtitle: ''
         text: |
           Lost - Score 2-4
