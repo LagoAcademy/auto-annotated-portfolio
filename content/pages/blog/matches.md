@@ -93,7 +93,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Lago Academy Vs al ethihad
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
