@@ -16,7 +16,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Matches
     items:
       - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
