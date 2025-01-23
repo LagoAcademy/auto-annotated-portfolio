@@ -3,8 +3,8 @@ type: PostLayout
 title: Matches
 date: '2024-04-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  As a Grassroot academy , we have played numerous matches against other
+  academies
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
