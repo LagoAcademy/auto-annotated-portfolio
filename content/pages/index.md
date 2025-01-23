@@ -39,7 +39,7 @@ sections:
           - pr-4
         alignItems: flex-end
         justifyContent: flex-end
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderColor: border-primary
         borderRadius: none
       title:
