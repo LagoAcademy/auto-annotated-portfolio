@@ -49,7 +49,7 @@ sections:
       type: ImageBlock
       url: /images/Screenshot 2025-01-02 120919.png
       altText: Lago Academy
-      caption: lago
+      caption: Lago Academy
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
