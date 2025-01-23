@@ -74,7 +74,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Lago Academy Vs al etihad
+        title: Lago Academy Vs al eth
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
