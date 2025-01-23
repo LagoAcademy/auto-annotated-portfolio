@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Girls Section of Lago Academy
+title: Team Girls
 date: '2024-07-07'
 excerpt: ''
 addTitleSuffix: true
