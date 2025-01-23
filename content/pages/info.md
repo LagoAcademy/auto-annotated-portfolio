@@ -13,21 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-
-      At Lago Academy, under the expert guidance of Coaches Donal and Valeriy,
-      we specialize in providing top-tier football training for boys and girls
-      of all ages. Our academy is dedicated to developing young talent through
-      comprehensive, tailored coaching sessions that emphasize skill-building,
-      teamwork, and sportsmanship. We offer a nurturing environment where every
-      child, regardless of skill level, has the opportunity to grow both on and
-      off the pitch. Our coaches, with years of experience in youth development,
-      work closely with each player to ensure they reach their full potential,
-      fostering a passion for the game and encouraging a lifelong love for
-      football. Whether you're a beginner or looking to refine your skills, Lago
-      Academy provides a structured, supportive pathway to help every child
-      achieve their goals in football.
-
+    text: >
+      ***At Lago Academy, under the expert guidance of Coaches Donal and
+      Valeriy, we specialize in providing top-tier football training for boys
+      and girls of all ages. Our academy is dedicated to developing young talent
+      through comprehensive, tailored coaching sessions that emphasize
+      skill-building, teamwork, and sportsmanship. We offer a nurturing
+      environment where every child, regardless of skill level, has the
+      opportunity to grow both on and off the pitch. Our coaches, with years of
+      experience in youth development, work closely with each player to ensure
+      they reach their full potential, fostering a passion for the game and
+      encouraging a lifelong love for football. Whether you're a beginner or
+      looking to refine your skills, Lago Academy provides a structured,
+      supportive pathway to help every child achieve their goals in football.***
     media:
       type: ImageBlock
       url: /images/about.jpg
