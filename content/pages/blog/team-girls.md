@@ -30,7 +30,7 @@ bottomSections:
         label: Revathy
         url: ''
       - type: Label
-        label: Hanna
+        label: Hananah
         url: ''
       - type: Label
         label: Next.js
