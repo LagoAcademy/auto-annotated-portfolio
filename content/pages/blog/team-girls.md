@@ -20,7 +20,7 @@ featuredImage:
   elementId: ''
 bottomSections:
   - type: LabelsSection
-    title: Skills
+    title: Members
     subtitle: The section subtitle
     items:
       - type: Label
