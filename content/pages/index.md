@@ -59,8 +59,8 @@ sections:
     showFeaturedImage: false
     actions: []
     posts:
-      - content/pages/blog/team-girls.md
       - content/pages/blog/matches.md
+      - content/pages/blog/team-girls.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
