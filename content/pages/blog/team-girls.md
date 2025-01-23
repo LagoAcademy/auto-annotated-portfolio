@@ -42,7 +42,7 @@ bottomSections:
         label: Siya
         url: ''
       - type: Label
-        label: C++
+        label: Zuri
         url: ''
       - type: Label
         label: Swift
