@@ -20,7 +20,7 @@ featuredImage:
   elementId: ''
 bottomSections:
   - type: LabelsSection
-    title: Members
+    title: Players
     subtitle: ''
     items:
       - type: Label
