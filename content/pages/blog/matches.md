@@ -33,7 +33,7 @@ bottomSections:
         title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: |
-          Drawed- Score 4-4
+          Draw- Score 4-4
         featuredImage:
           type: ImageBlock
           url: /images/image_2025-01-23_131606.png
