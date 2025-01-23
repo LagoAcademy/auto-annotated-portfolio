@@ -13,11 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      At Lago Academy, under the expert guidance of Coaches Donal and Valeriy,
+      we specialize in providing top-tier football training for boys and girls
+      of all ages. Our academy is dedicated to developing young talent through
+      comprehensive, tailored coaching sessions that emphasize skill-building,
+      teamwork, and sportsmanship
+
     media:
       type: ImageBlock
       url: /images/about.jpg
