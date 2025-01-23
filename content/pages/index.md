@@ -58,7 +58,8 @@ sections:
     subtitle: ''
     showFeaturedImage: false
     actions: []
-    posts: []
+    posts:
+      - content/pages/blog/team-girls.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
