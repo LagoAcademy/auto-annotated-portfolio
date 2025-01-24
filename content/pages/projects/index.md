@@ -108,8 +108,8 @@ topSections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
+      - content/pages/projects/project-one.md
     colors: colors-f
     variant: variant-c
     elementId: ''
