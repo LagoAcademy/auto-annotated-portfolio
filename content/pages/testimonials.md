@@ -35,9 +35,8 @@ sections:
       - type: Testimonial
         quote: >+
 
-          "Lago Academy is a great place for girls to develop their football
-          skills, with supportive coaching and a strong focus on growth and
-          teamwork."
+          "Lago Academy helped me improve my football skills and become a better
+          player."
 
         name: Eeshika
         title: Captain of Girls Team
