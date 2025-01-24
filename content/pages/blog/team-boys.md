@@ -31,6 +31,7 @@ bottomSections:
       - content/pages/projects/zin.md
       - content/pages/projects/omer.md
       - content/pages/projects/sparsh.md
+      - content/pages/projects/harvey.md
     colors: colors-f
     variant: variant-a
     elementId: ''
