@@ -20,7 +20,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: 'Players:'
     actions:
       - type: Link
         label: See all posts
