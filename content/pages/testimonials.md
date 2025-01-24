@@ -53,9 +53,11 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          "Lago Academy helped me improve my shooting and defending a lot.
-          Thanks to the coaches, I’m more confident and skilled on the field!"
+        quote: >+
+
+          "Lago Academy helped me improve my football skills and become a better
+          player."
+
         name: Manas
         title: Player of Lago Academy
         elementId: ''
