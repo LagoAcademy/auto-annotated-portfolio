@@ -23,7 +23,7 @@ bottomSections:
     subtitle: 'Players:'
     actions:
       - type: Link
-        label: See all projects
+        label: See all Players
         altText: See all Players
         url: /projects
         showIcon: false
