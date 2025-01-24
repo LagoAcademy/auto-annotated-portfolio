@@ -35,6 +35,7 @@ bottomSections:
       - content/pages/projects/mazen.md
       - content/pages/projects/rojeh.md
       - content/pages/projects/shayaan.md
+      - content/pages/projects/kanishk.md
     colors: colors-f
     variant: variant-a
     elementId: ''
