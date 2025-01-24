@@ -27,6 +27,7 @@ bottomSections:
       - content/pages/projects/project-two.md
       - content/pages/projects/manas.md
       - content/pages/projects/shivansh1.md
+      - content/pages/projects/hamodii1.md
     colors: colors-f
     variant: variant-a
     elementId: ''
