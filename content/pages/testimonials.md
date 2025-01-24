@@ -40,7 +40,7 @@ sections:
           teamwork."
 
         name: Eeshika
-        title: CEO at Parks
+        title: Captain of Girls Team
         image:
           type: ImageBlock
           altText: John Doe
