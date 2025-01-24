@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Malik
 colors: colors-a
-date: '2024-03-20'
+date: '2024-03-03'
 client: ''
 description: Vice Captain
 featuredImage:
