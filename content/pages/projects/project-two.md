@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-03-02'
 client: ''
 description: Vice Captain
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
