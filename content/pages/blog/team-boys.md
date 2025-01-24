@@ -24,7 +24,7 @@ bottomSections:
     actions:
       - type: Link
         label: See all posts
-        altText: See all posts
+        altText: See all Players
         url: /blog
         showIcon: false
         icon: arrowRight
