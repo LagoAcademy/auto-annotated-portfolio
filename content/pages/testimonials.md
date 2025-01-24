@@ -58,7 +58,7 @@ sections:
           "Lago Academy helped me improve my football skills and become a better
           player."
 
-        name: Manas
+        name: Revathy
         title: Player of Lago Academy
         elementId: ''
         styles:
