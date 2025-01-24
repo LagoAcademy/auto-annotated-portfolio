@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Matches
+title: Players
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
