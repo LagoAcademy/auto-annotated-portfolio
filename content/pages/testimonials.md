@@ -66,6 +66,26 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
+      - type: Testimonial
+        quote: >+
+          "Lago Academy helped me improve my shooting and defending a lot.
+          Thanks to the coaches, I’m more confident and skilled on the field!"
+
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-a
     variant: variant-a
     elementId: ''
