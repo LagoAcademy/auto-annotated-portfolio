@@ -33,9 +33,12 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: >+
+
+          "Lago Academy is a great place for girls to develop their football
+          skills, with supportive coaching and a strong focus on growth and
+          teamwork."
+
         name: John Doe
         title: CEO at Parks
         image:
