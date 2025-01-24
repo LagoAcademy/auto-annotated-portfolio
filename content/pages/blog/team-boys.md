@@ -18,43 +18,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-bottomSections:
-  - type: FeaturedPostsSection
-    title: 'Players:'
-    actions:
-      - type: Link
-        label: See all Players
-        altText: See all Players
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    posts:
-      - content/pages/blog/usman.md
-      - content/pages/blog/malik.md
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
+bottomSections: []
 ---
