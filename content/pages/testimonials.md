@@ -59,7 +59,7 @@ sections:
           player."
 
         name: Revathy
-        title: Player of Lago Academy
+        title: Player of Girls Team
         elementId: ''
         styles:
           name:
