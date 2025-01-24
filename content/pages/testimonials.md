@@ -39,7 +39,7 @@ sections:
           skills, with supportive coaching and a strong focus on growth and
           teamwork."
 
-        name: John Doe
+        name: Eeshika
         title: CEO at Parks
         image:
           type: ImageBlock
