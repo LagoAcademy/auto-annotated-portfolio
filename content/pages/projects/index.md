@@ -30,7 +30,7 @@ styles:
     textAlign: left
 bottomSections:
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions: []
     projects:
       - content/pages/projects/project-one.md
