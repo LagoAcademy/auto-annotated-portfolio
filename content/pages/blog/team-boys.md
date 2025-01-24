@@ -30,8 +30,7 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    posts:
-      - content/pages/blog/post-four.md
+    posts: []
     colors: colors-f
     variant: variant-a
     elementId: ''
