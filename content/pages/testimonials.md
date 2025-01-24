@@ -33,11 +33,14 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+        quote: >+
+
+          "Lago Academy is a great place for girls to develop their football
+          skills, with supportive coaching and a strong focus on growth and
+          teamwork."
+
+        name: Eeshika
+        title: Captain of Girls Team
         image:
           type: ImageBlock
           altText: John Doe
@@ -50,9 +53,24 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
+        quote: >+
+
+          "Lago Academy helped me improve my football skills and become a better
+          player."
+
+        name: Revathy
+        title: Player of Girls Team
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >+
           "Lago Academy helped me improve my shooting and defending a lot.
           Thanks to the coaches, I’m more confident and skilled on the field!"
+
         name: Manas
         title: Player of Lago Academy
         elementId: ''
