@@ -21,15 +21,7 @@ backgroundImage:
 bottomSections:
   - type: FeaturedProjectsSection
     subtitle: 'Players:'
-    actions:
-      - type: Link
-        label: See all Players
-        altText: See all Players
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
