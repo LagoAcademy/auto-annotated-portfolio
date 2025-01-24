@@ -38,7 +38,7 @@ sections:
           "Lago Academy helped me improve my football skills and become a better
           player."
 
-        name: Revathy
+        name: Eeshika
         title: Captain of Girls Team
         image:
           type: ImageBlock
