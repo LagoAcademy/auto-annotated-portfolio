@@ -72,7 +72,7 @@ sections:
           Thanks to the coaches, I’m more confident and skilled on the field!"
 
         name: Manas
-        title: Product Marketing Manager at Acme
+        title: Player of Lago Academy
         elementId: ''
         styles:
           name:
