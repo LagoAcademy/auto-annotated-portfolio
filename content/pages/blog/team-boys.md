@@ -32,6 +32,7 @@ bottomSections:
         elementId: ''
     posts:
       - content/pages/blog/usman.md
+      - content/pages/blog/malik.md
     colors: colors-f
     variant: variant-a
     elementId: ''
