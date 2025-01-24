@@ -2,7 +2,7 @@
 type: PostLayout
 title: Malik
 date: '2024-03-02'
-excerpt: Vice Captain
+excerpt: Vice Captain of Lago Academy
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
