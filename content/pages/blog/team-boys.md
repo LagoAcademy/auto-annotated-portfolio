@@ -23,7 +23,7 @@ bottomSections:
     title: 'Players:'
     actions:
       - type: Link
-        label: See all posts
+        label: See all Players
         altText: See all Players
         url: /blog
         showIcon: false
