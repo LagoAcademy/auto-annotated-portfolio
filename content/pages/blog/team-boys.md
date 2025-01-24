@@ -2,9 +2,7 @@
 type: PostLayout
 title: Team Boys
 date: '2024-03-02'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: The First Instance leading to the creation of Lago Academy
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
