@@ -20,7 +20,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Players:'
     actions:
       - type: Link
         label: See all projects
