@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Shivansh1
+title: Shivansh
 date: '2024-03-02'
 client: Awesome client
 description: ''
