@@ -30,7 +30,8 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    posts: []
+    posts:
+      - content/pages/blog/usman.md
     colors: colors-f
     variant: variant-a
     elementId: ''
