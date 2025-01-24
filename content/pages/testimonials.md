@@ -71,7 +71,7 @@ sections:
           "Lago Academy helped me improve my shooting and defending a lot.
           Thanks to the coaches, I’m more confident and skilled on the field!"
 
-        name: Johnna Doe
+        name: Manas
         title: Product Marketing Manager at Acme
         elementId: ''
         styles:
