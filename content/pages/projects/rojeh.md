@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Rojeh
 date: '2024-03-02'
-client: Awesome client
+client: ''
 description: ''
 media:
   type: ImageBlock
