@@ -97,7 +97,7 @@ sections:
           amazing and the coaches really care about the kids. My son progresses
           a lot here and likes coming to every session"
         name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: >-
