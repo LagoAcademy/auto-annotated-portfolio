@@ -53,7 +53,8 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Contact Us
-    text: I'm look forward to hearing from you.
+    text: |
+      We look forward to hearing from you.
     form:
       type: FormBlock
       title: Title of the form
