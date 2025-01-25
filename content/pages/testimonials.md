@@ -80,8 +80,8 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
-          "Lago Academy doesn't just focus on skill, they focus on the mentality
-          of a winner"
+          "Lago Academy helped me improve my football skills and become a better
+          player."
 
         name: Kanishk
         title: Player 69
