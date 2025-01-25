@@ -96,7 +96,7 @@ sections:
           "Very nice academy, despite the low price, the quality of training is
           amazing and the coaches really care about the kids. My son progresses
           a lot here and likes coming to every session"
-        name: Paretn
+        name: Parent at Lago Academy
         title: ''
         image:
           type: ImageBlock
