@@ -57,7 +57,7 @@ sections:
           "Lago Academy doesn't just focus on skill, they focus on the mentality
           of a winner"
 
-        name: Revathy
+        name: Kanishk
         title: Player of Girls Team
         elementId: ''
         styles:
