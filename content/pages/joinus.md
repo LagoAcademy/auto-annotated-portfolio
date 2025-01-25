@@ -72,6 +72,16 @@ sections:
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
+        - type: SelectFormControl
+          name: Which Position Do u want to Apply for
+          label: Subject
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Logo design
+            - Other
+          width: full
+          isRequired: false
       submitLabel: Send Message
       elementId: contact-form
       styles:
