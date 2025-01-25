@@ -80,6 +80,7 @@ sections:
           options:
             - Attack
             - Midfield
+            - ''
           width: full
           isRequired: false
       submitLabel: Send Message
