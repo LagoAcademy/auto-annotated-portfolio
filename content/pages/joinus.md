@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Join Lago Academy – Be Part of Our Football Family!
+    title: '"Join Lago Academy – Kickstart Your Football Journey!"'
     subtitle: Unleash Your Potential with Top-Class Training at Lago Academy
     text: >+
       ### **Why Join Lago Academy?** 
