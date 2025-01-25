@@ -72,7 +72,7 @@ sections:
           hideLabel: true
           placeholder: Your email
           width: 1/2
-          isRequired: 'true'
+          isRequired: true
         - type: SelectFormControl
           name: Which Position Do u want to Apply for
           label: Which Position Do u want to Apply for
