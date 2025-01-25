@@ -52,7 +52,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Contact Us
+    title: Apply Now
     text: |
       We look forward to hearing from you.
     form:
