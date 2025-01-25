@@ -84,7 +84,7 @@ sections:
             - Midfield
             - Defense
             - Goalkeeping
-          width: full
+          width: 1/2
           isRequired: true
       submitLabel: Send Message
       elementId: contact-form
