@@ -90,5 +90,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-socialImage: /images/Screenshot 2025-01-02 120919.png
+socialImage: /images/Screenshot 2025-01-05 121027.png
 ---
