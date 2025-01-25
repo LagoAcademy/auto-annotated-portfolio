@@ -53,8 +53,9 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Apply Now
-    text: |
-      We look forward to hearing from you.
+    text: |+
+      We look forward for you to Joining us
+
     form:
       type: FormBlock
       title: Title of the form
