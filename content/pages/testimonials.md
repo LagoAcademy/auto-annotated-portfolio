@@ -96,7 +96,7 @@ sections:
           "Very nice academy, despite the low price, the quality of training is
           amazing and the coaches really care about the kids. My son progresses
           a lot here and likes coming to every session"
-        name: Johnna Doe
+        name: Paretn
         title: ''
         image:
           type: ImageBlock
