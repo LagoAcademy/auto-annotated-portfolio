@@ -81,7 +81,7 @@ sections:
             - Attack
             - Midfield
             - Defence
-            - ''
+            - Goalkeeping
           width: full
           isRequired: false
       submitLabel: Send Message
