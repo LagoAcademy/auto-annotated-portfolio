@@ -72,13 +72,6 @@ sections:
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Tell me about your project
-          hideLabel: true
-          placeholder: Tell me about your project
-          width: full
-          isRequired: true
       submitLabel: Send Message
       elementId: contact-form
       styles:
