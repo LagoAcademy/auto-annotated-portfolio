@@ -91,6 +91,26 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
+      - type: Testimonial
+        quote: >
+          "Very nice academy, despite the low price, the quality of training is
+          amazing and the coaches really care about the kids. My son progresses
+          a lot here and likes coming to every session"
+        name: Parent at Lago Academy
+        title: ''
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-a
     variant: variant-a
     elementId: ''
