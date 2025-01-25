@@ -84,7 +84,7 @@ sections:
           "Lago Academy doesn't just focus on skill, they focus on the mentality
           of a winner"
 
-        name: Johnna Doe
+        name: Kanishk
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
