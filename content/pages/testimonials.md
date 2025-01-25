@@ -54,9 +54,8 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
-
-          "Lago Academy helped me improve my football skills and become a better
-          player."
+          "Lago Academy doesn't just focus on skill, they focus on the mentality
+          of a winner"
 
         name: Revathy
         title: Player of Girls Team
