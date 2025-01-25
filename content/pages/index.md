@@ -47,7 +47,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Screenshot 2025-01-02 120919.png
+      url: /images/Screenshot 2025-01-06 172420.png
       altText: Lago Academy
       caption: Lago Academy
       elementId: ''
