@@ -74,7 +74,7 @@ sections:
           isRequired: 'true'
         - type: SelectFormControl
           name: Which Position Do u want to Apply for
-          label: Subject
+          label: Which Position Do u want to Apply for
           hideLabel: false
           defaultValue: Please choose...
           options:
