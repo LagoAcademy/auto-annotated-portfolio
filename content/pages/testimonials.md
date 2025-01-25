@@ -54,12 +54,11 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
+          "Lago Academy doesn't just focus on skill, they focus on the mentality
+          of a winner"
 
-          "Lago Academy helped me improve my football skills and become a better
-          player."
-
-        name: Revathy
-        title: Player of Girls Team
+        name: Kanishk
+        title: Player 69
         elementId: ''
         styles:
           name:
@@ -72,7 +71,20 @@ sections:
           Thanks to the coaches, I’m more confident and skilled on the field!"
 
         name: Manas
-        title: Player of Lago Academy
+        title: Player 3
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >+
+          "Lago Academy helped me improve my football skills and become a better
+          player."
+
+        name: Revathy
+        title: Player of Girls Team
         elementId: ''
         styles:
           name:
