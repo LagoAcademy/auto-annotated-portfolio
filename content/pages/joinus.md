@@ -79,7 +79,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Attacking
-            - Other
+            - Midfield
           width: full
           isRequired: false
       submitLabel: Send Message
