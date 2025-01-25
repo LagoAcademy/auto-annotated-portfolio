@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: Join Lago Academy – Be Part of Our Football Family!
     subtitle: The section subtitle
     text: >-
       Start adding sections by clicking the + button on the page or through the
