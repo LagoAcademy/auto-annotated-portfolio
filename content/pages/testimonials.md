@@ -72,7 +72,7 @@ sections:
           Thanks to the coaches, I’m more confident and skilled on the field!"
 
         name: Manas
-        title: Player of Lago Academy
+        title: Player 3
         elementId: ''
         styles:
           name:
