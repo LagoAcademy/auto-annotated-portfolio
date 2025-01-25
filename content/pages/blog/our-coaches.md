@@ -2,9 +2,7 @@
 type: PostLayout
 title: Our Coaches
 date: '2024-11-24'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'See who our Coaches are '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
