@@ -71,7 +71,7 @@ sections:
           label: Name
           hideLabel: true
           placeholder: Your email
-          width: full
+          width: 1/2
           isRequired: 'true'
         - type: SelectFormControl
           name: Which Position Do u want to Apply for
