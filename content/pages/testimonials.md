@@ -84,7 +84,7 @@ sections:
           player."
 
         name: Revathy
-        title: Player 69
+        title: Player of Girls Team
         elementId: ''
         styles:
           name:
