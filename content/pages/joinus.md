@@ -78,7 +78,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - Attacking
+            - Attack
             - Midfield
           width: full
           isRequired: false
