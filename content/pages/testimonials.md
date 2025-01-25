@@ -58,7 +58,7 @@ sections:
           of a winner"
 
         name: Kanishk
-        title: Player of Girls Team
+        title: Player 69
         elementId: ''
         styles:
           name:
