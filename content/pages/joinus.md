@@ -80,7 +80,7 @@ sections:
           options:
             - Attack
             - Midfield
-            - Defence
+            - Defense
             - Goalkeeping
           width: full
           isRequired: false
