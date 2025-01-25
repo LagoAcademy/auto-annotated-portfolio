@@ -61,14 +61,14 @@ sections:
         - type: TextFormControl
           name: name
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
           name: email
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
@@ -89,19 +89,13 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    media:
-      type: ImageBlock
-      url: /images/contact.jpg
-      altText: Contact form image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-36
@@ -111,9 +105,9 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
