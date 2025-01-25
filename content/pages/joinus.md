@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Join Lago Academy – Be Part of Our Football Family!
-    subtitle: The section subtitle
+    subtitle: Unleash Your Potential with Top-Class Training at Lago Academy
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
