@@ -85,7 +85,7 @@ sections:
           of a winner"
 
         name: Kanishk
-        title: Product Marketing Manager at Acme
+        title: Player 69
         image:
           type: ImageBlock
           url: >-
