@@ -84,7 +84,7 @@ sections:
             - Defense
             - Goalkeeping
           width: full
-          isRequired: false
+          isRequired: true
       submitLabel: Send Message
       elementId: contact-form
       styles:
