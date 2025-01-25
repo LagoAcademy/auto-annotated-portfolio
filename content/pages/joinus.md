@@ -80,7 +80,7 @@ sections:
           options:
             - Attack
             - Midfield
-            - ''
+            - Defence
             - ''
           width: full
           isRequired: false
