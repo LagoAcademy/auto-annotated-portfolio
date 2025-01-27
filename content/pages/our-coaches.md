@@ -35,7 +35,8 @@ sections:
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions: []
-    projects: []
+    projects:
+      - content/pages/projects/coach-valeriy.md
     colors: colors-f
     variant: variant-a
     elementId: ''
