@@ -37,6 +37,7 @@ sections:
     actions: []
     projects:
       - content/pages/projects/coach-valeriy.md
+      - content/pages/projects/coach-donal.md
     colors: colors-f
     variant: variant-a
     elementId: ''
