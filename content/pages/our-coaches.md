@@ -6,7 +6,12 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Our Coaches
-    subtitle: The section subtitle
+    subtitle: >-
+      For the Coaches page on your website, you can have a simple layout with a
+      main section introducing your coaches and links or buttons that guide
+      users to individual pages for each coach. Here's an idea for how the page
+      could be structured:Page Title:Our CoachesSubtitle:Meet the Experts Behind
+      Lago Academy's Success
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
