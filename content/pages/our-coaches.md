@@ -7,9 +7,14 @@ sections:
     variant: variant-a
     title: Our Coaches
     subtitle: Meet the Experts Behind Lago Academy's Success
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >+
+
+      At Lago Academy, our coaching team is dedicated to developing football
+      talents at every level. Meet our two experienced coaches who work
+      tirelessly to help each player reach their potential.
+
+
+
     elementId: ''
     styles:
       self:
