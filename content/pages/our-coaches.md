@@ -35,8 +35,7 @@ sections:
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions: []
-    projects:
-      - content/pages/projects/project-two.md
+    projects: []
     colors: colors-f
     variant: variant-a
     elementId: ''
