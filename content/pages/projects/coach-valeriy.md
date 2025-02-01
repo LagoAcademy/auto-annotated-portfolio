@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Coach Valeriy
 date: '2002-11-24'
-client: Awesome client
+client: Awesome Coach
 description: >-
   Late but A young football coach with more than 10 years of experience of
   playing in Academy and senior team of Olimp-SKOPA FC and Keramik Balashikha,
