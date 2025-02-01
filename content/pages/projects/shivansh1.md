@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Shivansh
 date: '2024-03-02'
-client: Awesome client
+client: Awesome Player
 description: ''
 addTitleSuffix: true
 colors: colors-a
