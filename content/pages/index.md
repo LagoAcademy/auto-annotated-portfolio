@@ -62,6 +62,7 @@ sections:
       - content/pages/blog/team-girls.md
       - content/pages/blog/matches.md
       - content/pages/blog/team-boys.md
+      - content/pages/blog/our-coaches.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
