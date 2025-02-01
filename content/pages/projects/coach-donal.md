@@ -23,7 +23,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/473819108_627920473034770_783080065581500447_n.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
