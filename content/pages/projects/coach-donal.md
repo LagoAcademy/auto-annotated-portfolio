@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Coach Donal
 date: '2025-01-27'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
