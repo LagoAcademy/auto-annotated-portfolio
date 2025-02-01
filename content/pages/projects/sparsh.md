@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Sparsh
 date: '2024-03-02'
-client: Awesome Player
+client: ''
 description: ''
 addTitleSuffix: true
 colors: colors-a
