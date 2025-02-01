@@ -25,4 +25,10 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+featuredImage:
+  type: ImageBlock
+  url: /images/474811831_28726848363580492_4174932390674766819_n.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
