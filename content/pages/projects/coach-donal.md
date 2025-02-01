@@ -2,22 +2,8 @@
 type: ProjectLayout
 title: Coach Donal
 date: '2025-01-27'
-client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
+client: ''
+description: 'The Founder of Lago Academy, Has    EE Playmaker Coaching license'
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
@@ -27,4 +13,16 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+media:
+  type: ImageBlock
+  url: /images/473819108_627920473034770_783080065581500447_n.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
