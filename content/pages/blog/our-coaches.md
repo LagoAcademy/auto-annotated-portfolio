@@ -14,7 +14,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Coaches:'
     actions: []
     projects:
       - content/pages/projects/coach-valeriy.md
