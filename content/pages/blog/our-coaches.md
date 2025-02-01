@@ -15,15 +15,7 @@ backgroundImage:
 bottomSections:
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See Players
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     projects:
       - content/pages/projects/coach-valeriy.md
       - content/pages/projects/coach-donal.md
