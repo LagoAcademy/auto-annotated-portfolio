@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Coach Donal
 date: '2025-01-27'
 client: ''
-description: 'The Founder of Lago Academy, Has   '
+description: 'The Founder of Lago Academy, Has    EE Playmaker Coaching license'
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
