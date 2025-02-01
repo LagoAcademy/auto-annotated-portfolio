@@ -26,6 +26,8 @@ bottomSections:
         elementId: ''
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/coach-valeriy.md
+      - content/pages/projects/coach-donal.md
     colors: colors-f
     variant: variant-a
     elementId: ''
