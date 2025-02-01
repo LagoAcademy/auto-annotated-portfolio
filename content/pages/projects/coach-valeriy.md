@@ -4,10 +4,10 @@ title: Coach Valeriy
 date: '2002-11-24'
 client: Awesome Coach
 description: >-
-  Late but A young football coach with more than 10 years of experience of
-  playing in Academy and senior team of Olimp-SKOPA FC and Keramik Balashikha,
-  mostly playing in Moscow Region Premiership. Apart from playing, certified as
-  Level 2 Football Scout by AFCAS, and holding grassroots Football Coaching
+  A young football coach with more than 10 years of experience of playing in
+  Academy and senior team of Olimp-SKOPA FC and Keramik Balashikha, mostly
+  playing in Moscow Region Premiership. Apart from playing, certified as Level 2
+  Football Scout by AFCAS, and holding grassroots Football Coaching
   certifications from ISSPF,  Football Associations of Russia, England and
   Northern Ireland. Speaks English, Russian, Spanish and Italian fluently
 featuredImage:
