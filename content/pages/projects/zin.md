@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Zin
 date: '2024-03-02'
-client: Awesome client
+client: ''
 description: ''
 addTitleSuffix: true
 colors: colors-a
