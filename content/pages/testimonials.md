@@ -113,7 +113,7 @@ sections:
           about our progress on and off the field."
 
         name: 'Sparsh '
-        title: Product Marketing Manager at Acme
+        title: Number 9
         image:
           type: ImageBlock
           url: >-
