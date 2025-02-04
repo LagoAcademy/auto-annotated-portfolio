@@ -104,6 +104,29 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
+      - type: Testimonial
+        quote: >+
+          "Training with Coach Donal and Coach Valeriy has completely
+          transformed my game. Coach Donal helped me refine my footwork and
+          build confidence, while Coach Valeriy pushed my tactical understanding
+          to a new level. They’re not just great coaches—they genuinely care
+          about our progress on and off the field."
+
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-a
     variant: variant-a
     elementId: ''
