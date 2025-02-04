@@ -59,8 +59,7 @@ bottomSections:
       EE Playmaker Coaching license. Coach Donal excels at raising the level of
       his players. He focuses on skill development, confidence building, and
       teamwork, while encouraging personal growth and discipline. His passion
-      for the game ensures every player reaches their full potential.This
-      version is mor
+      for the game ensures every player reaches their full potential.
     actions: []
     media:
       type: ImageBlock
