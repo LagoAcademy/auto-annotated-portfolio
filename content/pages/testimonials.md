@@ -98,13 +98,6 @@ sections:
           a lot here and likes coming to every session"
         name: Parent at Lago Academy
         title: ''
-        image:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
-          altText: Person photo
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
