@@ -13,35 +13,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections:
-  - type: FeaturedProjectsSection
-    subtitle: 'Coaches:'
-    actions: []
-    projects:
-      - content/pages/projects/coach-valeriy.md
-      - content/pages/projects/coach-donal.md
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
