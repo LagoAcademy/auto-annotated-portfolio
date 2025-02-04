@@ -55,9 +55,8 @@ bottomSections:
   - type: HeroSection
     title: Coach Donal
     subtitle: >-
-      The Founder of Lago
-      Academy,                                                 Has EE Playmaker
-      Coaching license
+      The Founder of Lago Academy                                          Has
+      EE Playmaker Coaching license
     actions:
       - type: Button
         label: Hire me
