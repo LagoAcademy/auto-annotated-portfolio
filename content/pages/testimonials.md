@@ -114,13 +114,6 @@ sections:
 
         name: 'Sparsh '
         title: Player 9
-        image:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
-          altText: Person photo
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
