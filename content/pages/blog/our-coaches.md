@@ -14,9 +14,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Coach Valeriy
     subtitle: >-
       A young football coach with more than 10 years of experience of playing in
       Academy and senior team of Olimp-SKOPA FC and Keramik Balashikha, mostly
