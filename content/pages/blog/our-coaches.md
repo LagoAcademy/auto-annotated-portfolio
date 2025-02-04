@@ -22,16 +22,7 @@ bottomSections:
       Level 2 Football Scout by AFCAS, and holding grassroots Football Coaching
       certifications from ISSPF,  Football Associations of Russia, England and
       Northern Ireland. Speaks English, Russian, Spanish and Italian fluently
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/474811831_28726848363580492_4174932390674766819_n.jpg
