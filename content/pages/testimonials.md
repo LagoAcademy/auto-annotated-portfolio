@@ -104,7 +104,23 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-a
+      - type: Testimonial
+        quote: >+
+          "Training with Coach Donal and Coach Valeriy has completely
+          transformed my game. Coach Donal helped me refine my footwork and
+          build confidence, while Coach Valeriy pushed my tactical understanding
+          to a new level. They’re not just great coaches—they genuinely care
+          about our progress on and off the field."
+
+        name: 'Sparsh '
+        title: Player 9
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
     variant: variant-a
     elementId: ''
     styles:
