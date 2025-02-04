@@ -112,7 +112,7 @@ sections:
           to a new level. They’re not just great coaches—they genuinely care
           about our progress on and off the field."
 
-        name: Johnna Doe
+        name: 'Sparsh '
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
