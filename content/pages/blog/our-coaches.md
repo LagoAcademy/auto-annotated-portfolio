@@ -18,9 +18,12 @@ bottomSections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      A young football coach with more than 10 years of experience of playing in
+      Academy and senior team of Olimp-SKOPA FC and Keramik Balashikha, mostly
+      playing in Moscow Region Premiership. Apart from playing, certified as
+      Level 2 Football Scout by AFCAS, and holding grassroots Football Coaching
+      certifications from ISSPF,  Football Associations of Russia, England and
+      Northern Ireland. Speaks English, Russian, Spanish and Italian fluently
     actions:
       - type: Button
         label: Hire me
