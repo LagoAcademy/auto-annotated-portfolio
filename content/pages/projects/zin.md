@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Zin
-date: '2024-03-02'
+date: ''
 client: ''
 description: ''
 addTitleSuffix: true
