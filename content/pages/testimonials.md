@@ -120,7 +120,7 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-a
+    colors: colors-f
     variant: variant-a
     elementId: ''
     styles:
