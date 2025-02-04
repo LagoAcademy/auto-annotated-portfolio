@@ -35,7 +35,7 @@ bottomSections:
     media:
       type: ImageBlock
       url: /images/474811831_28726848363580492_4174932390674766819_n.jpg
-      altText: Hero image
+      altText: Coach Valeriy
       caption: Caption of the image
       elementId: ''
     colors: colors-f
