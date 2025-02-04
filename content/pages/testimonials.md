@@ -60,6 +60,19 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
+          "Lago Academy helped me improve my football skills and become a better
+          player."
+
+        name: Revathy
+        title: Player of Girls Team
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >+
 
           "Lago Academy is a great place for girls to develop their football
           skills, with supportive coaching and a strong focus on growth and
@@ -72,19 +85,6 @@ sections:
           altText: John Doe
           caption: Caption of the image
           elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-      - type: Testimonial
-        quote: >+
-          "Lago Academy helped me improve my football skills and become a better
-          player."
-
-        name: Revathy
-        title: Player of Girls Team
         elementId: ''
         styles:
           name:
