@@ -57,16 +57,7 @@ bottomSections:
     subtitle: >-
       The Founder of Lago Academy.                                          Has
       EE Playmaker Coaching license
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/473819108_627920473034770_783080065581500447_n.jpg
