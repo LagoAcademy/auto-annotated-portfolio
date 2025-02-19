@@ -35,6 +35,15 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
+        title: LAGO ACADEMY VS GRANTA FOOTBALL ACADEMY
+        subtitle: ''
+        text: |
+          Won - Score 14-0
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Lago Academy vs jlf
         subtitle: ''
         text: |
@@ -77,15 +86,6 @@ bottomSections:
         subtitle: ''
         text: |
           Lost - Score 2-4
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: LAGO ACADEMY VS GRANTA FOOTBALL ACADEMY
-        subtitle: ''
-        text: |
-          Won - Score 14-0
         elementId: ''
         styles:
           self:
