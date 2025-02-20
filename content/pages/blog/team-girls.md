@@ -19,7 +19,7 @@ featuredImage:
   elementId: ''
 bottomSections:
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Players:'
     actions: []
     projects:
       - content/pages/projects/eeshika.md
