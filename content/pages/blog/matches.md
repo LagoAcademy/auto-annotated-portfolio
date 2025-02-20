@@ -19,15 +19,6 @@ bottomSections:
     title: ''
     items:
       - type: FeaturedItem
-        title: LAGO ACADEMY VS GRINTA FC
-        subtitle: ''
-        text: |
-          Won - Score - 14-0
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: |
@@ -39,6 +30,15 @@ bottomSections:
           caption: Caption of the image
           elementId: ''
         actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: LAGO ACADEMY VS GRINTA FC
+        subtitle: ''
+        text: |
+          Won - Score - 14-0
         elementId: ''
         styles:
           self:
