@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: EESHIKA
-date: '2025-02-20'
+date: ''
 excerpt: Captain of Girls Team
 addTitleSuffix: true
 colors: colors-a
