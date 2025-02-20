@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Fatima
 date: '2025-02-02'
-client: Awesome client
+client: ''
 description: ''
 media:
   type: ImageBlock
