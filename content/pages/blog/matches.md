@@ -82,7 +82,7 @@ bottomSections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'LAGO ACADEMY VS GRANTA '
+        title: LAGO ACADEMY VS GRINTA FC
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
