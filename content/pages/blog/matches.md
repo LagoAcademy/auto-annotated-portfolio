@@ -106,12 +106,6 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-featuredImage:
-  type: ImageBlock
-  url: /images/Screenshot 2025-01-02 120919.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   altText: altText of the image
