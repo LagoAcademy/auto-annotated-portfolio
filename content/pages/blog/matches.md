@@ -84,10 +84,8 @@ bottomSections:
       - type: FeaturedItem
         title: LAGO ACADEMY VS GRINTA FC
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Won - Score - 14-0
         elementId: ''
         styles:
           self:
