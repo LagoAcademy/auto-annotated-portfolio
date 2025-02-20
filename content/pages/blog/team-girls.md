@@ -29,8 +29,7 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects:
-      - content/pages/projects/project-two.md
+    projects: []
     colors: colors-f
     variant: variant-a
     elementId: ''
