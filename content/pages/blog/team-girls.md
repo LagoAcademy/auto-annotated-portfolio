@@ -29,7 +29,8 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/eeshika.md
     colors: colors-f
     variant: variant-a
     elementId: ''
