@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Eeshika
 date: '2025-02-20'
-client: Awesome client
+client: ''
 description: Captain of Girls Team
 addTitleSuffix: true
 colors: colors-a
