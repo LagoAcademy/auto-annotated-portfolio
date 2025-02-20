@@ -31,6 +31,7 @@ bottomSections:
         elementId: ''
     posts:
       - content/pages/blog/post-four.md
+      - content/pages/blog/eeshika.md
     colors: colors-f
     variant: variant-a
     elementId: ''
