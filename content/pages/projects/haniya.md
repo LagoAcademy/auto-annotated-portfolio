@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Haniya
 date: '2025-02-20'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
