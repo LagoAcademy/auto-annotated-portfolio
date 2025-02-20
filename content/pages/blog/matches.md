@@ -19,16 +19,19 @@ bottomSections:
     title: ''
     items:
       - type: FeaturedItem
+        title: LAGO ACADEMY VS GRINTA FC
+        subtitle: ''
+        text: |
+          Won - Score - 14-0
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: |
           Draw- Score 4-4
-        featuredImage:
-          type: ImageBlock
-          url: /images/image_2025-01-23_131606.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions: []
         elementId: ''
         styles:
@@ -103,17 +106,12 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+  url: /images/Screenshot 2025-01-05 121027.png
 ---
 As a grassroots academy, Lago Academy has proudly competed in numerous matches against other academies, providing our young athletes with valuable experience and exposure. These competitive opportunities allow our players to test their skills, learn from real-game situations, and grow both individually and as a team. Each match is a step forward in our journey to develop well-rounded, confident footballers ready to excel at higher levels of the game.
 
