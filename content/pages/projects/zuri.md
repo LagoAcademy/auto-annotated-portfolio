@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Zuri
 date: '2025-02-20'
-client: Awesome client
+client: ''
 description: ''
 media:
   type: ImageBlock
