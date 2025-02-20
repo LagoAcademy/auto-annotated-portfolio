@@ -18,53 +18,44 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 bottomSections:
-  - type: LabelsSection
-    title: Players
-    subtitle: ''
-    items:
-      - type: Label
-        label: Eeshika
-        url: ''
-      - type: Label
-        label: Revathy
-        url: ''
-      - type: Label
-        label: Hananah
-        url: ''
-      - type: Label
-        label: Haniya
-        url: ''
-      - type: Label
-        label: Megan
-        url: ''
-      - type: Label
-        label: Siya
-        url: ''
-      - type: Label
-        label: Zuri
-        url: ''
-      - type: Label
-        label: Fatima
-        url: ''
-      - type: Label
-        label: Khadija
-        url: ''
+  - type: FeaturedPostsSection
+    title: 'Posts:'
+    actions:
+      - type: Link
+        label: See all posts
+        altText: See all posts
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
     colors: colors-f
+    variant: variant-a
     elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-36
-          - pb-36
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: center
 ---
 Introducing the official Girls' Section of Lago Academy, led by the dynamic and skilled Captain Eeshika. Under her leadership, the team embodies a strong spirit of teamwork, dedication, and passion for football. Together, they strive for excellence both on and off the field, setting a high standard of performance and unity. The Girls' Section is a key part of Lago Academy's commitment to nurturing young talent and empowering female athletes to reach their full potential.
 
