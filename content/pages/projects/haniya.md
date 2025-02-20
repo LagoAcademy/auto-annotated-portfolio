@@ -4,12 +4,6 @@ title: Haniya
 date: '2025-02-20'
 client: ''
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
