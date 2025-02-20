@@ -19,20 +19,20 @@ bottomSections:
     title: ''
     items:
       - type: FeaturedItem
-        title: Lago Academy VS EAGLES Sports academy
+        title: LAGO ACADEMY VS GRINTA FC
         subtitle: ''
         text: |
-          Draw- Score 4-4
-        actions: []
+          Won - Score - 14-0
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: LAGO ACADEMY VS GRINTA FC
+        title: Lago Academy VS EAGLES Sports academy
         subtitle: ''
         text: |
-          Won - Score - 14-0
+          Draw- Score 4-4
+        actions: []
         elementId: ''
         styles:
           self:
