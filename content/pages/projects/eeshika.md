@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Eeshika
-date: '0020-12-01'
+date: '0001-12-01'
 client: ''
 description: Captain of Girls Team
 addTitleSuffix: true
