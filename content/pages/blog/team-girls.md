@@ -30,6 +30,7 @@ bottomSections:
       - content/pages/projects/siya.md
       - content/pages/projects/zuri.md
       - content/pages/projects/fatima.md
+      - content/pages/projects/khadija.md
     colors: colors-f
     variant: variant-a
     elementId: ''
