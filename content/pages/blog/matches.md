@@ -23,12 +23,6 @@ bottomSections:
         subtitle: ''
         text: |
           Draw- Score 4-4
-        featuredImage:
-          type: ImageBlock
-          url: /images/image_2025-01-23_131606.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions: []
         elementId: ''
         styles:
