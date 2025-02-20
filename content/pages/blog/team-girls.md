@@ -28,6 +28,7 @@ bottomSections:
       - content/pages/projects/haniya.md
       - content/pages/projects/megan.md
       - content/pages/projects/siya.md
+      - content/pages/projects/zuri.md
     colors: colors-f
     variant: variant-a
     elementId: ''
