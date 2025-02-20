@@ -23,6 +23,7 @@ bottomSections:
     actions: []
     projects:
       - content/pages/projects/eeshika.md
+      - content/pages/projects/revathy.md
     colors: colors-f
     variant: variant-a
     elementId: ''
