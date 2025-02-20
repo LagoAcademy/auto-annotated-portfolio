@@ -4,12 +4,6 @@ title: Hananah
 date: '2011-01-02'
 client: Awesome client
 description: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
